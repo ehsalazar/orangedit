@@ -3,7 +3,7 @@ Orangedit
 
 Project
 -------------------
-Build a link aggregator site similar to (Reddit)[http://www.reddit.com/] or (Hacker News)[https://news.ycombinator.com/].
+Build a link aggregator site similar to [Reddit](http://www.reddit.com/) or [Hacker News](https://news.ycombinator.com/).
 
 App Features
 -------------------
