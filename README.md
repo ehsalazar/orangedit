@@ -14,6 +14,8 @@ Utilized the following project specific gems:
   - [Acts As Votable](https://github.com/ryanto/acts_as_votable) is a Ruby Gem specifically written for Rails/ActiveRecord models allowing for model to be voted on, like/dislike, upvote/downvote, etc.
 - `gem 'simple_form'`
   - [Simple Form](https://github.com/plataformatec/simple_form) is Rails forms made easy, used for comments section.
+- `gem 'mechanize'`
+  - [Mechanize](https://github.com/sparklemotion/mechanize) is a library used for automating interaction with websites, used to generate titles based on url submissions.
 
 App Features
 -------------------
