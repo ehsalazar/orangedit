@@ -20,7 +20,8 @@ Utilized the following project specific gems:
 App Features
 -------------------
 - A user can sign up/sign in and out.
-- A user can submit a link with a title and url.
+- A user can submit a link with a url, producing an auto-generated title.
 - A user can vote up or down a link.
 - A user can comment on links submissions.
+- A user can close their account, removing their submitted urls and comments.
 
